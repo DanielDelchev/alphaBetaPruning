@@ -1,0 +1,19 @@
+Homework 5 for
+the AI course
+in FMI 2017/2018
+
+TickTackToe game with bot using alphaBeta pruning of
+the decision tree.
+
+compilation tested with:
+Cygwingcc (version 5.4.0 (GCC))
+compile with flags "-std=c++11 -Wall -O3"
+
+to build with makefile with GCC execute:
+"make -f makefile"
+
+to run in console
+"./XO"
+or
+"./XO bot" for bot vs bot
+"./XO human" for bot vs human (default)
